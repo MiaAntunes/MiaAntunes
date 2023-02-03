@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estou aprendendo HTML E CSS
+- 🌱 Estou aprendendo JavaScript
 - 💬 Contate-me: suportecamilaantunes2003@hotmail.com
 - 😄 Pronouns: ela/dela
 
