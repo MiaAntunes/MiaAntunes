@@ -23,7 +23,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-![Snake animation](https://github.com/MiaAntunes/MiaAntunes/blob/output/github-contribution-grid-snake.svg)
+
 
 
           
