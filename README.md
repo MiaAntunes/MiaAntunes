@@ -3,7 +3,7 @@
 
 - 😄 Pronome : ela/ dela
 - 🎒 Estudante da Labenu 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo React.JS e Sass
 - 📫 Como entrar em contato comigo: suportecamilaantunes2003@hotmail.com
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaAntunes&show_icons=true&theme=tokyonight)
