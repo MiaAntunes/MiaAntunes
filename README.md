@@ -1,4 +1,4 @@
-# 👋 Olá! Bem Vindes ao meu perfil do Github.
+# 👋 Olá! Bem Vindos ao meu perfil do Github.
 ### Meu nome é Camila Antunes e meu apelido é Mia Antunes!
 
 - 😄 Pronome : ela/ dela
