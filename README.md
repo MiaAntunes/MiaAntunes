@@ -1,9 +1,9 @@
-# 👋 Olá! Bem Vindos ao meu perfil do Github.
+# 👋 Olá! Bem Vinde ao meu perfil do Github.
 ### Meu nome é Camila Antunes e meu apelido é Mia Antunes!
 
 - 😄 Pronome : ela/ dela
 - 🎒 Estudante da Labenu 
-- 🌱 Atualmente estou aprendendo React.JS e Sass
+- 🌱 Atualmente estou aprendendo Sass, SQL, Express
 - 📫 Como entrar em contato comigo: suportecamilaantunes2003@hotmail.com
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaAntunes&show_icons=true&theme=tokyonight)
@@ -17,13 +17,16 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div>
 
 ### Estou aprendendo:
 <div>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />      
 </div>
 
 
