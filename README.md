@@ -3,7 +3,7 @@
 
 - 😄 Pronome : ela/ dela
 - 🎒 Estudante da Labenu 
-- 🌱 Atualmente estou aprendendo Sass, SQL, Express
+- 🌱 Atualmente estou aprendendo Sass
 - 📫 Como entrar em contato comigo: suportecamilaantunes2003@hotmail.com
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaAntunes&show_icons=true&theme=tokyonight)
@@ -20,14 +20,13 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     <img  width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />      
  </div>
 
 ### Estou aprendendo:
 <div>
-   Em projetos
+       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 
