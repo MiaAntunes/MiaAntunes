@@ -26,7 +26,7 @@
 
 ### Estou aprendendo:
 <div>
-       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 
