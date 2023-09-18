@@ -2,7 +2,7 @@
 ### Meu nome é Camila Antunes e meu apelido é Mia Antunes!
 
 - 😄 Pronome : ela/ dela
-- 🎒 Estudante da Labenu 
+- 🎒 Desenvolvedora Full Stack - Labenu
 - 🌱 Atualmente estou aprendendo Sass
 - 📫 Como entrar em contato comigo: suportecamilaantunes2003@hotmail.com
 
